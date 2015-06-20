@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Bottle Test</title>
+	<script src="../js/jquery.1.js"></script>
+	<style>
+		*{padding:0px;margin:0px;}
+	</style>
+</head>
+<body>
+<div id="mybottle" style="margin-top:-145px">
+</div>
+
+
+<!-- 引入3D图形库 -->
+<script src="./scripts/three.min.js" type="text/javascript" charset="utf-8" defer="defer"></script>
+<!-- 引入模型加载器 -->
+<script src="./scripts/objloader.js" defer="defer"></script>
+<!-- 程序控制 -->
+<script src="./scripts/loader.js" defer="defer"></script>
+<script>
+var img=parent.window.Main.imgbg;
+console.log(img);
+$(function(){
+	var ie=navigator.appVersion.indexOf('IE')>-1;
+	if(!ie){
+		webgl(img,900*1.4,600*1.4);
+	}
+	
+})
+</script>
+</body>
+</html>
