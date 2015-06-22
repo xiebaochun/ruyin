@@ -3,16 +3,21 @@
 下面是截图：
 
 1、首页
+
 ![](https://raw.githubusercontent.com/xiebaochun/ruyin/master/preview-images/QQ%E5%9B%BE%E7%89%8720150622211540.jpg)
 
 2、菜单
+
 ![](https://raw.githubusercontent.com/xiebaochun/ruyin/master/preview-images/QQ%E5%9B%BE%E7%89%8720150622211628.jpg)
 
 3、自己绘图（模式一）
+
 ![](https://raw.githubusercontent.com/xiebaochun/ruyin/master/preview-images/QQ%E5%9B%BE%E7%89%8720150622211724.jpg)
 
 4、上传图片（模式二）
+
 ![](https://github.com/xiebaochun/ruyin/raw/master/preview-images/QQ%E5%9B%BE%E7%89%8720150622211744.jpg)
 
 5、素材选择（模式三）
+
 ![](https://raw.githubusercontent.com/xiebaochun/ruyin/master/preview-images/QQ%E5%9B%BE%E7%89%8720150622211830.jpg)
