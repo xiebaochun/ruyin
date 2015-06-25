@@ -1,5 +1,8 @@
 #如饮项目
 如饮项目是一个饮料瓶瓶身贴纸个性化制作活动项目。后台php,前台（端）用了h5（canvas,css3等）。前端分为pc和移动端。
+
+项目测试地址：[http://test.activity.sinreweb.com/TyRyBottleInChina/Pc/index](http://test.activity.sinreweb.com/TyRyBottleInChina/Pc/index)
+
 下面是截图：
 
 1、首页
